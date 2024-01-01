@@ -29,7 +29,7 @@ function setup() {
     updateGrid();
 }
 
-/* centers the game canvavs on window */
+/* centers the game canvas on window */
 function centerCanvas() {
     var x = (windowWidth - width) / 2;
     var y = (windowHeight - height) / 2 + 40;
